@@ -1,0 +1,14 @@
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\bin\Debug\net8.0\AlgoMenuApp.exe
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\bin\Debug\net8.0\AlgoMenuApp.deps.json
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\bin\Debug\net8.0\AlgoMenuApp.runtimeconfig.json
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\bin\Debug\net8.0\AlgoMenuApp.dll
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\bin\Debug\net8.0\AlgoMenuApp.pdb
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\obj\Debug\net8.0\AlgoMenuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\obj\Debug\net8.0\AlgoMenuApp.AssemblyInfoInputs.cache
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\obj\Debug\net8.0\AlgoMenuApp.AssemblyInfo.cs
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\obj\Debug\net8.0\AlgoMenuApp.csproj.CoreCompileInputs.cache
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\obj\Debug\net8.0\AlgoMenuApp.dll
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\obj\Debug\net8.0\refint\AlgoMenuApp.dll
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\obj\Debug\net8.0\AlgoMenuApp.pdb
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\obj\Debug\net8.0\AlgoMenuApp.genruntimeconfig.cache
+C:\Users\gregg\OneDrive\Documents\Jobs\Tests - Technical - practice\AlgoMenuApp\obj\Debug\net8.0\ref\AlgoMenuApp.dll
